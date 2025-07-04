@@ -1,3 +1,6 @@
+## 程式碼版本控制
+本專案已上傳至 GitHub，請見：[https://github.com/asalone0601/esun-seating-system]
+
 玉山銀行員工座位系統
 
 系統架構
